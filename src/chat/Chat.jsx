@@ -91,6 +91,154 @@ const Chat = () => {
                    </button>
                  </td>
                </tr>
+               <tr className="bg-white border-b toggle-button">
+                 <th scope="row" className="px-6 py-4 font-medium whitespace-nowrap">
+                   <label className="relative inline-flex items-center cursor-pointer">
+                     <input type="checkbox" value="" className="sr-only peer" />
+                     <div className="w-11 h-6 bg-gray-200 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 dark:peer-focus:ring-blue-800 rounded-full peer  peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all peer-checked:bg-blue-600"></div>
+                   </label>
+                 </th>
+                 <td className="px-6 py-4">
+                   Jack Test
+                 </td>
+                 <td className="px-6 py-4">
+                   None
+                 </td>
+                 <td className="px-6 py-4">
+                   None
+                 </td>
+                 <td className="px-6 py-4">
+                   None
+                 </td>
+                 <td className="px-6 py-4">
+                   None
+                 </td>
+                 <td className="px-6 py-4">
+                   18 hours ago
+                 </td>
+                 <td className="px-6 py-4">
+                   Sales person
+                 </td>
+                 <td className="px-6 py-4">
+                   popver
+                 </td>
+                 <td className="px-6 py-4">
+                   <button className="button-show-chart bg-transparent text-blue-800 font-bold py-2 text-xs px-4 rounded">
+                   View Chart Log
+                   </button>
+                 </td>
+               </tr>
+               <tr className="bg-white border-b toggle-button">
+                 <th scope="row" className="px-6 py-4 font-medium whitespace-nowrap">
+                   <label className="relative inline-flex items-center cursor-pointer">
+                     <input type="checkbox" value="" className="sr-only peer" />
+                     <div className="w-11 h-6 bg-gray-200 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 dark:peer-focus:ring-blue-800 rounded-full peer  peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all peer-checked:bg-blue-600"></div>
+                   </label>
+                 </th>
+                 <td className="px-6 py-4">
+                   Jack Test2
+                 </td>
+                 <td className="px-6 py-4">
+                   42
+                 </td>
+                 <td className="px-6 py-4">
+                   Jack
+                 </td>
+                 <td className="px-6 py-4">
+                   42
+                 </td>
+                 <td className="px-6 py-4">
+                   42
+                 </td>
+                 <td className="px-6 py-4">
+                   4 days ago
+                 </td>
+                 <td className="px-6 py-4">
+                   Customer support
+                 </td>
+                 <td className="px-6 py-4">
+                   popver
+                 </td>
+                 <td className="px-6 py-4">
+                   <button className="button-show-chart bg-transparent text-blue-800 font-bold py-2 text-xs px-4 rounded">
+                   View Chart Log
+                   </button>
+                 </td>
+               </tr>
+               <tr className="bg-white border-b toggle-button">
+                 <th scope="row" className="px-6 py-4 font-medium whitespace-nowrap">
+                   <label className="relative inline-flex items-center cursor-pointer">
+                     <input type="checkbox" value="" className="sr-only peer" />
+                     <div className="w-11 h-6 bg-gray-200 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 dark:peer-focus:ring-blue-800 rounded-full peer  peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all peer-checked:bg-blue-600"></div>
+                   </label>
+                 </th>
+                 <td className="px-6 py-4">
+                   Jack Test
+                 </td>
+                 <td className="px-6 py-4">
+                   None
+                 </td>
+                 <td className="px-6 py-4">
+                   None
+                 </td>
+                 <td className="px-6 py-4">
+                   None
+                 </td>
+                 <td className="px-6 py-4">
+                   None
+                 </td>
+                 <td className="px-6 py-4">
+                   18 hours ago
+                 </td>
+                 <td className="px-6 py-4">
+                   Sales person
+                 </td>
+                 <td className="px-6 py-4">
+                   popver
+                 </td>
+                 <td className="px-6 py-4">
+                   <button className="button-show-chart bg-transparent text-blue-800 font-bold py-2 text-xs px-4 rounded">
+                   View Chart Log
+                   </button>
+                 </td>
+               </tr>
+               <tr className="bg-white border-b toggle-button">
+                 <th scope="row" className="px-6 py-4 font-medium whitespace-nowrap">
+                   <label className="relative inline-flex items-center cursor-pointer">
+                     <input type="checkbox" value="" className="sr-only peer" />
+                     <div className="w-11 h-6 bg-gray-200 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 dark:peer-focus:ring-blue-800 rounded-full peer  peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all peer-checked:bg-blue-600"></div>
+                   </label>
+                 </th>
+                 <td className="px-6 py-4">
+                   Jack Test
+                 </td>
+                 <td className="px-6 py-4">
+                   None
+                 </td>
+                 <td className="px-6 py-4">
+                   None
+                 </td>
+                 <td className="px-6 py-4">
+                   None
+                 </td>
+                 <td className="px-6 py-4">
+                   None
+                 </td>
+                 <td className="px-6 py-4">
+                   18 hours ago
+                 </td>
+                 <td className="px-6 py-4">
+                   Sales person
+                 </td>
+                 <td className="px-6 py-4">
+                   popver
+                 </td>
+                 <td className="px-6 py-4">
+                   <button className="button-show-chart bg-transparent text-blue-800 font-bold py-2 text-xs px-4 rounded">
+                   View Chart Log
+                   </button>
+                 </td>
+               </tr>
              </tbody>
           </table>
         </div>

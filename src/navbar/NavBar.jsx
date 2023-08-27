@@ -23,19 +23,19 @@ const NavBar = () => {
                                     <NavLink to="/">Jack Test</NavLink>
                                 </p>
                                 <p>
-                                    <NavLink to="/">Jack Test</NavLink>
+                                    <NavLink to="/">Jack Test2</NavLink>
                                 </p>
                                 <p>
-                                    <NavLink to="/">Jack Test</NavLink>
+                                    <NavLink to="/">Jack Test3</NavLink>
                                 </p>
                                 <p>
-                                    <NavLink to="/">Jack Test</NavLink>
+                                    <NavLink to="/">Jack Test4</NavLink>
                                 </p>
                                 <p>
-                                    <NavLink to="/">Jack Test</NavLink>
+                                    <NavLink to="/">Jack Test5</NavLink>
                                 </p>
                                 <p>
-                                    <NavLink to="/">Jack Test</NavLink>
+                                    <NavLink to="/">Jack Test6</NavLink>
                                 </p>
                             </div>
                         </div>
@@ -57,28 +57,10 @@ const NavBar = () => {
                         <div id="collapseTwo" className="collapse show" aria-labelledby="headingTwo" data-parent="#inactive-chat">
                             <div className='user-list'>
                                 <p>
-                                    <NavLink to="/">Jack Test</NavLink>
+                                    <NavLink to="/">Jack Test7</NavLink>
                                 </p>
                                 <p>
-                                    <NavLink to="/">Jack Test</NavLink>
-                                </p>
-                                <p>
-                                    <NavLink to="/">Jack Test</NavLink>
-                                </p>
-                                <p>
-                                    <NavLink to="/">Jack Test</NavLink>
-                                </p>
-                                <p>
-                                    <NavLink to="/">Jack Test</NavLink>
-                                </p>
-                                <p>
-                                    <NavLink to="/">Jack Test</NavLink>
-                                </p>
-                                <p>
-                                    <NavLink to="/">Jack Test</NavLink>
-                                </p>
-                                <p>
-                                    <NavLink to="/">Jack Test</NavLink>
+                                    <NavLink to="/">Jack Test8</NavLink>
                                 </p>
                             </div>
                         </div>
