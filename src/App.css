@@ -1,0 +1,14 @@
+
+ 
+.collapse {
+  visibility: visible !important;
+}
+
+
+
+@media only screen and (max-width: 600px) {
+  #nav-bar{
+   min-height: fit-content !important;
+
+  }
+}

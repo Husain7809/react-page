@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta&display=swap');
+:root{
+    --blue: #4E68CE;
+    --bg:#EBEDF8;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100%;
+    font-family: 'Mukta', sans-serif;
+    height: 100%;
+}
+
+#nav-bar{
+    width: 100%;
+    min-height: 92vh;
+    min-height: 92vh;
+    overflow: auto;
+    padding-top: 10px;
+    border-right: 1px solid #f3efef;
+}
+.nav-title{
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: var(--blue);
+    background-color: var(--bg);
+    border-radius: 5px;
+    padding: 5px;
+}
+.achive-chat,.inactive-chat{
+    color: black !important;
+    font-weight: 400;
+}
+.btn-link{
+    color: black;
+    text-decoration: none !important;
+    cursor: pointer;
+}
+
+.btn::before {
+    display: inline-block;
+    width: 0;
+    height: 0;
+    margin-left: 0.255em;
+    vertical-align: 0.255em;
+    content: "";
+    border-top: 0.3em solid;
+    border-right: 0.3em solid transparent;
+    border-bottom: 0;
+    margin-right: 15px;
+    color: #d9cfcf;
+    border-left: 0.3em solid transparent;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+.button-show-chart{
+    border: 1.5px solid var(--blue) !important;
+    color: var(--blue);
+}
+.button-show-chart:hover{
+    background-color: var(--blue) !important;
+    color: white;
+}
+.chat-user-list table thead{
+    background-color: var(--bg);
+    font-weight: 600;
+    color: var(--blue);
+}
+.toggle-button{
+    background-color: var(--blue);
+}
+.new-chat{
+    background-color: var(--blue);
+}
